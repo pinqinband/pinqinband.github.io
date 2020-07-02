@@ -1,6 +1,8 @@
 # --- Basic options --- #
 
 # Name of website
+favicon: "/favicon.ico"
+
 title: PINQIN
 
 # Short description of your site
