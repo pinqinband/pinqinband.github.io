@@ -1,16 +1,29 @@
 ---
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+layout: minimal
+title: 'Levi's Shirt'
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<div class="text-center">
+  Schau das Video auf
+  <a href="https://www.youtube.com/watch?v=GnhuJY93iAE&feature=youtu.be">
+    <img src="/assets/img/youtube.png" alt="Youtube" width="300" height="67">
+  </a>
+</div>
+<br>
+<div class="text-center">
+  <a href="https://open.spotify.com/album/2FAJDOMhkby4e6VUidKK9F?highlight=spotify:track:01bIVvsah5Yvkge4jd1UH9">
+    <img src="/assets/img/spotifybadge.png" alt="Spotify" width="300" height="150">
+  </a>
+</div>
+<br>
+<div class="text-center">
+  <a href="https://music.apple.com/at/album/levis-shirt-demo-single/1510773894">
+    <img src="/assets/img/applemusic.svg" alt="Apple Music" width="300" height="150">
+  </a>
+</div>
+<br>
+<div class="text-center">
+  <a href="https://play.google.com/store/music/album/PINQIN_Levi_s_Shirt_demo?id=Boo5tdvmkj6xhcfpkvkv6ao5thy">
+    <img src="/assets/img/playmusic.png" alt="Google Play Music" width="300" height="110">
+  </a>
+</div>
+<br>
