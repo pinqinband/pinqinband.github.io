@@ -13,6 +13,7 @@ author: PINQIN
 
 navbar-links:
   Über die Band: "about"
+  Blog: "index"
   Songs:
     - Mars: "mars"
     - Bahnhof Toyohashi: "toyohashi"
@@ -86,13 +87,13 @@ excerpt_length: 150
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#f8f0fb"
+navbar-col: "#d0ccd0"
 navbar-text-col: "#211a1d"
 navbar-border-col: "#f8f0fb"
-page-col: "#f8f0fb"
+page-col: "#fbfcff"
 link-col: "#211a1d"
 hover-col: "#211a1d"
-footer-col: "#f8f0fb"
+footer-col: "#fbfcff"
 footer-text-col: "#211a1d"
 footer-link-col: "#211a1d"
 
