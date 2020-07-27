@@ -7,11 +7,12 @@ share-img: https://www.a1.net/connectlife/wp-content/uploads/2019/06/Header_Desk
 tags: [pinqin, mars, fengsushi]
 ---
 
-Entgegen aller Erwartungen hat sich die Musiksendung [Feng Sushi](https://www.a1now.tv/de-int/page/feng-sushi) dazu überreden lassen, einen Song der wohl kontroversesten Band Europas (PINQIN) zu featuren.
+Entgegen aller Erwartungen hat sich die Musiksendung [Feng Sushi](https://www.a1now.tv/de-int/page/feng-sushi) dazu überreden lassen, einen Song (Mars) der wohl kontroversesten Band Europas (PINQIN) zu featuren.
 Wenn damit unser Weg in den Pop-Olymp noch nicht geebnet ist, wissen selbst wir nicht mehr weiter.
 
-Den Beitrag findet ihr hier:
-https://www.a1now.tv/de-int/playerpage/171443
+Den Beitrag inklusive unserem Pro-Skater Sponsortape findet ihr hier:
+[https://www.a1now.tv/de-int/playerpage/171443](https://www.a1now.tv/de-int/playerpage/171443)
+
 
 
 Viel Spaß beim rein cringen,
